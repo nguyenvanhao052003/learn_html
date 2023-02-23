@@ -1,0 +1,8 @@
+cd projects/learn_html
+git status(kiem tra ten cac file thay doi)
+git diff(kiểm tra thay dổi nhung file cu)
+git add ten_file(add 1 file)
+git add .(add toan bo file thay doi)
+git commit -m "chu thich"(tao 1 commit cho nhung file vua add)
+git push origin ten_nhanh(day commit len sever vao nhanh ten_nhanh)
+git push (day commit len nhanh origin master)
